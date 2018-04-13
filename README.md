@@ -1,6 +1,6 @@
 # Zero-Docs
 
-All relevant Zero documents to be present in this repo. 
+Zero - Documentation and Information.
 
 Introduction
 Website
