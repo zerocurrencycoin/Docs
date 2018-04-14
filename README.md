@@ -14,3 +14,6 @@ Discord
 Reddit
 GitHub
 ANN Theread
+
+
+Link with API/Slate
