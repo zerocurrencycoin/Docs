@@ -56,7 +56,7 @@ https://twitter.com/ZeroCurrencies
 
 Facebook
 
-https://www.facebook.com/ZeroCurrencyOfficial/
+https://www.facebook.com/ZeroCurrencyOfficial
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
