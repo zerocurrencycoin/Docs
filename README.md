@@ -4,7 +4,7 @@ Zero - Documentation and Information.
 
 Introduction
 Website
-Forum/Redit
+Forum/Reddit
 Twitter
 Facebook
 Telegram Group
@@ -34,40 +34,66 @@ Zero was created by zerocurrency in February 2017 as a means to improve Zcash's 
 Our main focus as a team and community is to remain as transparent as we can possibly be, and to maintain an interactive relationship with everyone involved. We are fully open about the project, listening to all suggestions from investors, miners and supporters. 
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Website 
 
 https://zerocurrency.io
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Forum/Redit
 
 https://www.reddit.com/r/ZeroCoins
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Twitter
 
 https://twitter.com/ZeroCurrencies
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Facebook
 
 https://www.facebook.com/ZeroCurrencyOfficial/
 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Telegram
 
 https://t.me/zerocurrency
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Telegram News Channel
 
 https://t.me/zerocurrencyofficial
 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Discord
 
 https://discordapp.com/invite/Vv6tSts
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Github 
 
 https://github.com/zerocurrencycoin
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
 ANN Thread
 
 https://bitcointalk.org/index.php?topic=3310714.msg34560204#msg34560204
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
