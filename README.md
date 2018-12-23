@@ -4,8 +4,6 @@ Zero - Documentation and Information.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
-Intro:
-
 Zero uses ZEROcash Protocol
 
 https://zerocurrency.io/
