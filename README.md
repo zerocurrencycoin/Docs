@@ -9,6 +9,7 @@ Intro:
 Zero uses ZEROcash Protocol
 
 https://zerocurrency.io/
+
 http://zerocash-project.org
                  
                             
