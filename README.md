@@ -11,8 +11,11 @@ Zero uses ZEROcash Protocol
 https://zerocurrency.io/
 
 http://zerocash-project.org
+
                  
-                            
+ --------------------------------------------------------------------------------------------------------------------------------------- 
+      
+                    
 ZERO is a revolutionary cryptocurrency and transaction platform based on Zcash.
 
 ZERO offers total payment confidentiality, while still maintaining a decentralised network using a public blockchain.
