@@ -21,6 +21,11 @@ ZERO stands out from the competition as a fully working product that has already
 
 Our main focus as a team and community is to remain as transparent as we can possibly be and to maintain an interactive relationship with everyone involved. We are fully open about the project, listening to all suggestions from investors, miners and supporters.  
 
+
+
+Links
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Website 
