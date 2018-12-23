@@ -27,8 +27,6 @@ Zero uses ZEROcash Protocol
 http://zerocash-project.org
                  
                             
-ZERO is fork of Zcash (Zcash is fork of Bitcoin). It has security of Bitcoin, privacy of Zcash and few other improvements. ZERO includes the best privacy and anonymity technology available today.
-
 ZERO is a revolutionary cryptocurrency and transaction platform based on Zcash.
 
 ZERO offers total payment confidentiality, while still maintaining a decentralised network using a public blockchain.
@@ -37,7 +35,7 @@ ZERO combines Bitcoin’s security with Zcash’s anonymity and privacy.
 
 ZERO stands out from the competition as a fully working product that has already implemented a set of special features not found in any other cryptocurrency.
 
-Our main focus as a team and community is to remain as transparent as we can possibly be and to maintain an interactive relationship with everyone involved. We are fully open about the project, listening to all suggestions from investors, miners and supporters. 
+Our main focus as a team and community is to remain as transparent as we can possibly be and to maintain an interactive relationship with everyone involved. We are fully open about the project, listening to all suggestions from investors, miners and supporters.  
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
