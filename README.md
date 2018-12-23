@@ -1,22 +1,6 @@
 # Zero-Docs
 
 Zero - Documentation and Information.
-
-Introduction
-Website
-Forum/Reddit
-Twitter
-Facebook
-Telegram Group
-Telegram News Channel
-Discord
-GitHub
-ANN Thread
-
-
-Link with API/Slate
-
-
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
