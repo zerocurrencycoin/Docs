@@ -16,7 +16,7 @@ http://zerocash-project.org
                     
 ZERO is a revolutionary cryptocurrency and transaction platform based on Zcash.
 
-ZERO offers total payment confidentiality, while still maintaining a decentralised network using a public blockchain.
+ZERO offers total payment confidentiality, while still maintaining a decentralized network using a public blockchain.
 
 ZERO combines Bitcoin’s security with Zcash’s anonymity and privacy.
 
