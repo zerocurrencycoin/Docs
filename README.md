@@ -7,11 +7,8 @@ Zero - Documentation and Information.
 Zero uses ZEROcash Protocol
 
 https://zerocurrency.io/
-
-http://zerocash-project.org
-
                  
- --------------------------------------------------------------------------------------------------------------------------------------- 
+--------------------------------------------------------------------------------------------------------------------------------------- 
       
                     
 ZERO is a revolutionary cryptocurrency and transaction platform based on Zcash.
@@ -71,8 +68,7 @@ https://t.me/zerocurrencyofficial
 
 Discord
 
-https://discordapp.com/invite/Vv6tSts
-
+https://discord.com/invite/Jq5knn5
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
