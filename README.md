@@ -1,10 +1,7 @@
-# Zero-Docs
+# Zero Docs
 
 Zero - Documentation and Information.
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-
-Zero uses ZEROcash Protocol
 
 https://zerocurrency.io/
                  
@@ -22,10 +19,8 @@ ZERO stands out from the competition as a fully working product that has already
 Our main focus as a team and community is to remain as transparent as we can possibly be and to maintain an interactive relationship with everyone involved. We are fully open about the project, listening to all suggestions from investors, miners and supporters.  
 
 
-
 Links
 ----------------------------------------------------------------------------------------------------------------------------------------
-
 
 Website 
 
@@ -45,24 +40,15 @@ https://twitter.com/ZeroCurrencies
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-Facebook
-
-https://www.facebook.com/ZeroCurrencyOfficial
-
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
 Telegram
 
 https://t.me/zerocurrency
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Telegram News Channel
 
 https://t.me/zerocurrencyofficial
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -76,21 +62,17 @@ Medium
 
 https://medium.com/@zerocurrency
 
-
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Github 
 
 https://github.com/zerocurrencycoin
 
-
 ----------------------------------------------------------------------------------------------------------------------------------------
-
 
 ANN Thread
 
-https://bitcointalk.org/index.php?topic=3310714.msg34560204#msg34560204
-
+https://bitcointalk.org/index.php?topic=3310714.msg34560204
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
